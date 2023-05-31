@@ -23,6 +23,7 @@
 
   <div>
     
-  <a href="https://www.linkedin.com/in/maiara-colombo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/maiara-colombo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+  <a href="mailto:maiaraccolombo@outlook.com?subject=Vim%20pelo%20github!"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px"></a> 
     
 </div>
