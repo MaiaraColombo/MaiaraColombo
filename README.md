@@ -1,16 +1,26 @@
-### Hi there 👋
+## Olá! Eu sou a Maiara Colombo.
 
-<!--
-**MaiaraColombo/MaiaraColombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Programação back-end, ciência de dados
+- 🌱 Estudando Python
+- 😄 Pronomes: ela/dela
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/MaiaraColombo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaiaraColombo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaiaraColombo&layout=compact&langs_count=8&theme=dracula"/>
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Arthur-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Arthur-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+</div>
+  
+  ##
+
+  <div>
+    
+  <a href="https://www.linkedin.com/in/maiara-colombo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    
+</div>
