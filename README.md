@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Maiara Colombo.
 
 - 🔭 Programação back-end, ciência de dados
-- 🌱 Estudando Python
+- 🌱 Estudando Python, Java
 - 😄 Pronomes: ela/dela
 
  ##
